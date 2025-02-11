@@ -1,0 +1,4 @@
+nginx:
+  image: "nginx:latest"
+  name: "nginx"
+  port: 80 
